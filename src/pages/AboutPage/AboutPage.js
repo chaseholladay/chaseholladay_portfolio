@@ -44,8 +44,7 @@ const AboutPage = (props, context) => {
               (except React though) and had so much fun along the way.
             </p>
             <p>
-              React-Redux, Node.js, Ruby on Rails, Java, Spring Boot, Docker and
-              AWS are the main tricks up my sleeve. I am also obsessed with making the web look pretty with SASS/CSS.
+              add words here
             </p>
             <p className="text-emoji" style={{ color: colorPrimary }}>
               \ (•◡•) /
