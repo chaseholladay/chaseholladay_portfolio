@@ -5,18 +5,18 @@ export default [{
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Typy
+        Fish-n-Clicks
       </div>
       <div className='portfolio-item__desc'>
-        JavaScript type checking library with a sweeter syntax
+        A clicky game using React and Surge Transitions
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-js"></i>
         <i className="fab fa-npm"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/typy">NPM</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/typy">More</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://hungry-wilderness.surge.sh/">Play Game</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/chaseholladay/Fish-n-Clicks">More</a>
       </div>
     </div>
   )
@@ -25,7 +25,7 @@ export default [{
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Dev Landing Page
+        Settle-It
       </div>
       <div className='portfolio-item__desc'>
         Minimal landing page for developers
